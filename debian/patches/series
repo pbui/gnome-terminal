@@ -7,3 +7,6 @@ Provide-fallback-for-reading-current-directory-if-OS.patch
 60_add_lp_handler.patch
 scrollbar-background-theming.patch
 show-font-weight-and-style-in-profile-editor.patch
+
+# Pop!_OS patches
+pop-shell.patch
