@@ -1,3 +1,9 @@
+gnome-terminal (3.38.1-1ubuntu1pop0) hirsute; urgency=medium
+
+  * Pop!_OS patches
+
+ -- Jeremy Soller <jeremy@system76.com>  Mon, 22 Mar 2021 14:08:57 -0600
+
 gnome-terminal (3.38.1-1ubuntu1) hirsute; urgency=medium
 
   * Merge with debian, remaining changes:
